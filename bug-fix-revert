@@ -1,0 +1,18 @@
+curl https://api.github.com/repos/atticvss/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "number": 1,
+    "state": "open",
+    "title": "bug-fix-revert",
+    "head": {
+      "ref": "bug-fix-revert",
+      "repo": {
+        "full_name": "atticvss/mcino-Introduction-to-Git-and-GitHub"
+      }
+    },
+    "base": {
+      "ref": "main"
+    }
+  }
+]
